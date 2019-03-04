@@ -8,3 +8,4 @@ Software and Library
 * Matplotlib
 * Statsmodel
 * Scipy
+* Jupyter Notebook
